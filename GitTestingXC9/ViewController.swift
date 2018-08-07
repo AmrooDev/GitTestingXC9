@@ -18,6 +18,9 @@ class ViewController: UIViewController {
         print ("My Change") ;
         
         print ("Change in Branch A01")
+        
+        print ("Change in Branch A02 - will not be merged to master")
+        
     }
 
     override func didReceiveMemoryWarning() {
